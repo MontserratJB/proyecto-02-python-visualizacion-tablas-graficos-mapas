@@ -1,0 +1,84 @@
+cod_provin,provincia,cod_canton,canton,fecha,positivos,recuperados,fallecidos,activos
+1,San José,112,Acosta,11/11/2020,612,532,2,78
+1,San José,110,Alajuelita,11/11/2020,4781,3269,57,1455
+1,San José,106,Aserrí,11/11/2020,1470,668,15,787
+1,San José,118,Curridabat,11/11/2020,2689,2205,37,447
+1,San José,103,Desamparados,11/11/2020,7878,3473,126,4279
+1,San José,117,Dota,11/11/2020,22,16,0,6
+1,San José,102,Escazú,11/11/2020,1795,1452,29,314
+1,San José,108,Goicoechea,11/11/2020,3787,2968,65,754
+1,San José,120,León Cortés Castro,11/11/2020,56,53,0,3
+1,San José,115,Montes de Oca,11/11/2020,1149,924,13,212
+1,San José,107,Mora,11/11/2020,782,623,10,149
+1,San José,114,Moravia,11/11/2020,1175,948,16,211
+1,San José,119,Pérez Zeledón,11/11/2020,804,225,6,573
+1,San José,104,Puriscal,11/11/2020,588,481,8,99
+1,San José,101,San José,11/11/2020,18125,14606,271,3248
+1,San José,109,Santa Ana,11/11/2020,1949,1424,21,504
+1,San José,105,Tarrazú,11/11/2020,65,54,2,9
+1,San José,113,Tibás,11/11/2020,2548,1184,52,1312
+1,San José,116,Turrubares,11/11/2020,85,57,0,28
+1,San José,111,Vázquez de Coronado,11/11/2020,1629,1203,29,397
+2,Alajuela,201,Alajuela,11/11/2020,9231,3493,115,5623
+2,Alajuela,205,Atenas,11/11/2020,490,153,3,334
+2,Alajuela,203,Grecia,11/11/2020,1255,354,20,881
+2,Alajuela,215,Guatuso,11/11/2020,366,223,3,140
+2,Alajuela,214,Los Chiles,11/11/2020,462,400,8,54
+2,Alajuela,206,Naranjo,11/11/2020,1050,369,10,671
+2,Alajuela,209,Orotina,11/11/2020,452,307,5,140
+2,Alajuela,207,Palmares,11/11/2020,766,231,7,528
+2,Alajuela,208,Poás,11/11/2020,701,571,8,122
+2,Alajuela,216,Río Cuarto,11/11/2020,410,107,1,302
+2,Alajuela,210,San Carlos,11/11/2020,4789,3136,36,1617
+2,Alajuela,204,San Mateo,11/11/2020,57,41,1,15
+2,Alajuela,202,San Ramón,11/11/2020,1363,491,11,861
+2,Alajuela,212,Sarchí,11/11/2020,303,56,2,245
+2,Alajuela,213,Upala,11/11/2020,440,334,6,100
+2,Alajuela,211,Zarcero,11/11/2020,333,47,1,285
+3,Cartago,306,Alvarado,11/11/2020,140,99,2,39
+3,Cartago,301,Cartago,11/11/2020,2457,1275,28,1154
+3,Cartago,308,El Guarco,11/11/2020,738,267,7,464
+3,Cartago,304,Jiménez,11/11/2020,126,88,1,37
+3,Cartago,303,La Unión,11/11/2020,2875,1556,38,1281
+3,Cartago,307,Oreamuno,11/11/2020,1057,722,8,327
+3,Cartago,302,Paraíso,11/11/2020,586,456,8,122
+3,Cartago,305,Turrialba,11/11/2020,380,251,5,124
+4,Heredia,402,Barva,11/11/2020,1107,836,10,261
+4,Heredia,407,Belén,11/11/2020,704,542,5,157
+4,Heredia,408,Flores,11/11/2020,697,514,5,178
+4,Heredia,401,Heredia,11/11/2020,4789,2738,70,1981
+4,Heredia,406,San Isidro,11/11/2020,674,471,14,189
+4,Heredia,409,San Pablo,11/11/2020,838,551,13,274
+4,Heredia,405,San Rafael,11/11/2020,1356,1024,14,318
+4,Heredia,404,Santa Barbara,11/11/2020,899,500,7,392
+4,Heredia,403,Santo Domingo,11/11/2020,1402,739,15,648
+4,Heredia,410,Sarapiquí,11/11/2020,1133,638,7,488
+5,Guanacaste,507,Abangares,11/11/2020,278,182,0,96
+5,Guanacaste,504,Bagaces,11/11/2020,208,159,1,48
+5,Guanacaste,506,Cañas,11/11/2020,478,380,4,94
+5,Guanacaste,505,Carrillo,11/11/2020,334,225,3,106
+5,Guanacaste,511,Hojancha,11/11/2020,111,97,1,13
+5,Guanacaste,510,La Cruz,11/11/2020,388,301,3,84
+5,Guanacaste,501,Liberia,11/11/2020,1235,290,4,941
+5,Guanacaste,509,Nandayure,11/11/2020,108,64,4,40
+5,Guanacaste,502,Nicoya,11/11/2020,868,685,15,168
+5,Guanacaste,503,Santa Cruz,11/11/2020,867,370,6,491
+5,Guanacaste,508,Tilarán,11/11/2020,183,147,3,33
+6,Puntarenas,603,Buenos Aires,11/11/2020,335,44,8,283
+6,Puntarenas,610,Corredores,11/11/2020,1180,854,11,315
+6,Puntarenas,608,Coto Brus,11/11/2020,217,87,5,125
+6,Puntarenas,602,Esparza,11/11/2020,756,496,10,250
+6,Puntarenas,611,Garabito,11/11/2020,765,444,8,313
+6,Puntarenas,607,Golfito,11/11/2020,459,271,2,186
+6,Puntarenas,604,Montes de Oro,11/11/2020,399,173,6,220
+6,Puntarenas,605,Osa,11/11/2020,359,206,15,138
+6,Puntarenas,609,Parrita,11/11/2020,254,219,3,32
+6,Puntarenas,601,Puntarenas,11/11/2020,3816,1984,50,1782
+6,Puntarenas,606,Quepos,11/11/2020,587,419,9,159
+7,Limón,706,Guácimo,11/11/2020,639,372,6,261
+7,Limón,701,Limón,11/11/2020,3005,2308,28,669
+7,Limón,705,Matina,11/11/2020,741,440,6,295
+7,Limón,702,Pococí,11/11/2020,1901,993,16,892
+7,Limón,703,Siquirres,11/11/2020,1228,922,11,295
+7,Limón,704,Talamanca,11/11/2020,1093,147,22,924
+9,Otros,999,Otros,11/11/2020,561,285,0,276
